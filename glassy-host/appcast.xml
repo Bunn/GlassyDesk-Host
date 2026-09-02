@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Glassy Host Updates</title>
-    <link>https://downloads.bunn.dev/glassy-host/appcast.xml</link>
+    <link>https://glassydesk-host.pages.dev/glassy-host/appcast.xml</link>
     <description>Software updates for Glassy Host.</description>
   </channel>
 </rss>
