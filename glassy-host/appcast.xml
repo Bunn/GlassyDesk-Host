@@ -1,8 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Glassy Host Updates</title>
-    <link>https://glassydesk-host.pages.dev/glassy-host/appcast.xml</link>
-    <description>Software updates for Glassy Host.</description>
-  </channel>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Glassy Host Updates</title>
+        <link>https://glassydesk-host.pages.dev/glassy-host/appcast.xml</link>
+        <description>Software updates for Glassy Host.</description>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 03 Sep 2026 00:41:53 +0100</pubDate>
+            <link>https://github.com/Bunn/GlassyDesk-Host/releases/tag/v0.1.2</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Bunn/GlassyDesk-Host/releases/download/v0.1.2/GlassyHost-0.1.2.zip" length="4117861" type="application/octet-stream" sparkle:edSignature="6I61YcF/cj4E3/G+c63aLyQUt66F1G+lDmXOcUj2dOzdcVJrADpQzY54yFCxS9AnKFQxIzI35LC28ezSCG+IBw=="/>
+        </item>
+    </channel>
 </rss>
