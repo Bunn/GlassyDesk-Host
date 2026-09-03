@@ -5,6 +5,16 @@
         <link>https://glassydesk-host.pages.dev/glassy-host/appcast.xml</link>
         <description>Software updates for Glassy Host.</description>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 03 Sep 2026 01:33:51 +0100</pubDate>
+            <link>https://github.com/Bunn/GlassyDesk-Host/releases/tag/v0.2.0</link>
+            <description><![CDATA[<p>A redesigned native Mac interface, simpler QR pairing, and individual device access controls.</p><p>QR scanning requires the updated Glassy Desk client. Existing code/password pairing and saved-device authentication remain compatible.</p>]]></description>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Bunn/GlassyDesk-Host/releases/download/v0.2.0/GlassyHost-0.2.0.zip" length="4533106" type="application/octet-stream" sparkle:edSignature="ZJki5Y2cznsEqmApV7zw/6Jw0Fl1UU8aTOhSWKiNGRssmA3PuDQv3Z/NSvHtbi9zRPibZLZ+5pRM/gJlYR0DAg=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Thu, 03 Sep 2026 00:41:53 +0100</pubDate>
             <link>https://github.com/Bunn/GlassyDesk-Host/releases/tag/v0.1.2</link>
